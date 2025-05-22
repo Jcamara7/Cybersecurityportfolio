@@ -23,3 +23,8 @@ Hi, I’m Joshua Camara, a motivated and versatile professional transitioning in
 
   -**Managing and maintaining technical systems under pressure**
 
+# Resume
+
+[ View My Resume](Resume1.pdf)
+
+
