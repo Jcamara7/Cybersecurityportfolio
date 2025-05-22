@@ -57,7 +57,8 @@ Conducted a comprehensive vulnerability assessment and digital forensic analysis
 
 # Resume 📄
 
-[View My Resume](Resume1.pdf)
+[View My Resume](Resume & CV/Resume1.pdf)
+
 
 # Career Objective: 
 I am currently seeking entry-level or junior cybersecurity roles where I can apply my technical training, investigative mindset, and customer-focused background. My goal is to contribute to a security team that values continuous learning and collaborative problem-solving.
