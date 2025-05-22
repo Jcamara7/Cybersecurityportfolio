@@ -25,6 +25,8 @@ Hi, I’m Joshua Camara, a motivated and versatile professional transitioning in
 
 # Resume
 
+[View My Resume](Resume1.pdf)
+
 
 
 
